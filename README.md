@@ -1,5 +1,5 @@
 ﻿# HermanPlace
 
-![1er Diagrama](Modelo de Entidad-Relacion HermanPlace.jpeg)
+![1er Diagrama](https://github.com/MRHELLBOY-DC/HermanPlace/blob/main/Modelo%20de%20Entidad-Relacion%20HermanPlace.jpeg)
 
-![2do Diagrama](Modelo de Entidad-Relacion 2 HermanPlace.jpeg)
+![2do Diagrama](https://github.com/MRHELLBOY-DC/HermanPlace/blob/main/Modelo%20de%20Entidad-Relacion%202%20HermanPlace.jpeg)
